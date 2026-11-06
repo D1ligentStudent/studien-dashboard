@@ -1,7 +1,5 @@
 # Studien-Dashboard
 
-Kurze Bedienungsanleitung
-
 Gib die gewünschte Menüzahl ein und bestätige mit `Enter`. Die folgenden Menüwege beginnen immer im Hauptmenü. Mit `0` kommst du aus einem Untermenü dorthin zurück. Im Hauptmenü beendet `0` das Programm.
 
 ## 1. Zuerst ein Modul anlegen
